@@ -11,6 +11,7 @@ namespace HelloHi
         static void Main(string[] args)
         {
             System.Console.WriteLine("My new program");
+            System.Console.WriteLine("change2 ");
             System.Console.WriteLine("i");
         }
     }
