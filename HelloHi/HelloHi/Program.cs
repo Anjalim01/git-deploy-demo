@@ -13,6 +13,7 @@ namespace HelloHi
             System.Console.WriteLine("My new program");
             System.Console.WriteLine("change2 ");
             System.Console.WriteLine("i");
+            System.Console.WriteLine("branch changed to dev");
         }
     }
 }
